@@ -5,6 +5,10 @@
 
 ---
 
+![System Diagram](./Untitled diagram-2026-02-08-140140.png)
+
+---
+
 ## 🌐 Project Overview
 
 **InvestInGas** is a comprehensive hedging ecosystem designed to solve the most persistent problem in decentralized finance: **Gas Price Unpredictability**. 
