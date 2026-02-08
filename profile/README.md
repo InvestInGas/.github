@@ -5,7 +5,7 @@
 
 ---
 
-![System Diagram](./Untitled diagram-2026-02-08-140140.png)
+[System Diagram](./Untitled diagram-2026-02-08-140140.png)
 
 ---
 
